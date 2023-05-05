@@ -5,3 +5,4 @@ Brett's Blog attempt to showcase my new Data Analytics skills
 
 [EasyAs.JPG](https://blong206b.github.io/assets/images/EasyAs.jpg)
 ![EasyAs](https://user-images.githubusercontent.com/42682589/236537570-963087ae-63d2-4c51-a277-2d37dfa4daf9.jpg)
+![Alt text](assets/images/EasyAs.jpg)
